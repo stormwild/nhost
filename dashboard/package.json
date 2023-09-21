@@ -50,7 +50,7 @@
     "date-fns": "^2.29.3",
     "generate-password": "^1.7.0",
     "graphiql": "^3.0.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-request": "^6.0.0",
     "graphql-tag": "^2.12.6",
     "graphql-ws": "^5.11.2",

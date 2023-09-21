@@ -19,7 +19,7 @@
     "@nhost/apollo": "*",
     "@nhost/vue": "*",
     "@vue/apollo-composable": "4.0.0-alpha.18",
-    "graphql": "15.7.2",
+    "graphql": "16.8.1",
     "graphql-tag": "^2.12.6",
     "roboto-fontface": "*",
     "vite-plugin-vuetify": "^1.0.1",
