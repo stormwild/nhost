@@ -16,7 +16,7 @@
     "@nhost/vue": "*",
     "@vue/apollo-composable": "4.0.0-alpha.18",
     "@vueuse/core": "^8.9.4",
-    "graphql": "15.7.2",
+    "graphql": "16.8.1",
     "graphql-tag": "^2.12.6",
     "vue": "^3.2.38",
     "vue-router": "^4.1.5"
