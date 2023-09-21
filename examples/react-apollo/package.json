@@ -11,7 +11,7 @@
     "@mantine/prism": "^4.2.12",
     "@nhost/react": "*",
     "@nhost/react-apollo": "*",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
